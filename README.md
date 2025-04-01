@@ -1,5 +1,5 @@
 <h1>Sistema de Biblioteca</h1>
-<p>Um sistema simples de cadastro e listagem de livros e pedidos, para avaliação de conhecimentos do 2º semestre de DSM, utilizando PHP, HTML, CSS e muita fé em Deus.</p>
+<p>Um sistema simples de cadastro e listagem de livros e pedidos, para avaliação de conhecimentos do 2º semestre de Desenvolimento Web 2, utilizando PHP, HTML, CSS e muita fé em Deus.</p>
 <h2>Funcionalidades</h2>
 <ul>
   <li>Login para bibliotecário e professor</li>
